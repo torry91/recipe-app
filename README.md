@@ -1,5 +1,8 @@
 ## Description
 This is a web application built with React that allows users to find recipes based on their search queries. Users can input ingredients or dish names, and the app will display relevant recipes fetched from the Edamam API.
+<img width="1475" alt="pic" src="https://github.com/torry91/recipe-app/assets/149702982/1e10c8d7-73b7-4857-b966-b90a1cfe51c8">
+
+
 
 ## Features
 Search for recipes using keywords
