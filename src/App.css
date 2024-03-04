@@ -1,0 +1,66 @@
+video {
+  object-fit: cover;
+  width: 100vw;
+  height: 100vh;
+  position: fixed;
+  top: 0;
+  left: 0;
+  z-index: -1;
+}
+
+.App {
+  background-color: rgba(255, 255, 255, 0.5);
+}
+
+.container {
+  display: flex;
+  justify-content: center;
+}
+
+.search {
+  width: 100%;
+  padding: 12px 24px;
+  background-color: transparent;
+  color: #575756;
+  box-shadow: inset 0px 0px 0px 4px #B5C0D0;
+  }
+
+  h1,h2,p,ul {
+    font-family: "Open Sans", sans-serif;
+  }
+
+  .list {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    list-style-type: none;
+  }
+
+  li{
+    background-color: white;
+    padding: 10px;
+    margin: 10px;
+    border-radius: 15px;
+  }
+
+  .icon {
+    width: 30px;
+    /* border-radius: 45%; */
+    background-color: white;
+    border-radius: 12px;
+      border: none;
+    }
+
+    button {
+      margin-top: 10px;
+      border-radius: 12px;
+      border: none;
+      background-color: white;
+      }
+
+      .cal{
+        background-color: white;
+        padding: 10px;
+        margin: 10px;
+        border-radius: 15px;
+      }
