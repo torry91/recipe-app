@@ -22,6 +22,6 @@ Run the application:
 npm start
 
 ## Credits
-React - A JavaScript library for building user interfaces
-Edamam API - API for accessing recipe data
-Icons from Icons8
+ - React - A JavaScript library for building user interfaces
+ - Edamam API - API for accessing recipe data
+ - Icons from Icons8
