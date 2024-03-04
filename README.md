@@ -5,9 +5,9 @@ This is a web application built with React that allows users to find recipes bas
 
 
 ## Features
-Search for recipes using keywords
-Display recipe images, labels, calories, ingredients, and meal types
-Background video for an engaging user experience
+ - Search for recipes using keywords.
+ - Display recipe images, labels, calories, ingredients, and meal types.
+ - Background video for an engaging user experience.
 
 ## Technologies Used
 React
