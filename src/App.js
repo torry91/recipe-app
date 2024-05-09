@@ -19,6 +19,8 @@ function App () {
       setMySearch2(data.hits);
     }
     getRecipe()
+
+    
   },[wordSubmit])
 
   const myRecipeSearch = (e) => {
